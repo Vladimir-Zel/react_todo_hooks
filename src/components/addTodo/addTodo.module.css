@@ -1,0 +1,13 @@
+.addTodoForm{
+    display: flex;
+    /*margin-top: 24px;*/
+    /*flex: 1;*/
+}
+
+.btn{
+    margin-left: 12px ;
+}
+
+.btn:hover{
+    background: #75ccad !important;
+}
